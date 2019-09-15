@@ -8,6 +8,10 @@ namespace Task1
 {
     public static class MyClass<T> where T : new()
     {
+        /// <summary>
+        /// Создает объект типа T
+        /// </summary>
+        /// <returns>Возвращает ссылку на новый объект типа T</returns>
         public static T FacrotyMethod()
         {
             return new T();

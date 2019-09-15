@@ -7,6 +7,11 @@
         {
             arrayT = new T[0];
         }
+        /// <summary>
+        /// Индексатор
+        /// </summary>
+        /// <param name="index">Индекс</param>
+        /// <returns>Возвращает элемент типа T по индексу index</returns>
         public T this[int index]
         {
             get
@@ -18,6 +23,10 @@
                 arrayT[index] = value;
             }
         }
+        /// <summary>
+        /// Добавление элемента в массив
+        /// </summary>
+        /// <param name="newitem">Добавляемый элемент в массив типа T</param>
         public void Add(T newitem)
         {
             T[] newarrayT = new T[arrayT.Length + 1];
@@ -28,15 +37,25 @@
             newarrayT[arrayT.Length] = newitem;
             arrayT = newarrayT;
         }
+        /// <summary>
+        /// Количество элементов в массиве
+        /// </summary>
         public int Count
         {
             get { return arrayT.Length; }
         }
+        /// <summary>
+        /// Очистка массива
+        /// </summary>
         public void Clear()
         {
             arrayT = new T[0];
         }
-
+        /// <summary>
+        /// Получить индекс элемента
+        /// </summary>
+        /// <param name="item">Элемент</param>
+        /// <returns>Возвращает индекс элемента item</returns>
         public int IndexOf(T item)
         {
             for (var i = 0; i < Count; i++)

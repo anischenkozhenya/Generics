@@ -12,8 +12,8 @@ namespace Task1
     {
         static void Main(string[] args)
         {
-            int my = MyClass<int>.FacrotyMethod();
-            Random my1 = MyClass<Random>.FacrotyMethod();
+            var my = MyClass<int>.FacrotyMethod();
+            var my1 = MyClass<Random>.FacrotyMethod();
             Console.WriteLine(my.GetType().ToString());
             Console.WriteLine(my1.GetType().ToString());
             Console.ReadKey();
