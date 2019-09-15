@@ -1,0 +1,7 @@
+E:\Generics\Generics\Generics\Task1\bin\Debug\Task1.exe.config
+E:\Generics\Generics\Generics\Task1\bin\Debug\Task1.exe
+E:\Generics\Generics\Generics\Task1\bin\Debug\Task1.pdb
+E:\Generics\Generics\Generics\Task1\obj\Debug\Task1.csprojAssemblyReference.cache
+E:\Generics\Generics\Generics\Task1\obj\Debug\Task1.csproj.CoreCompileInputs.cache
+E:\Generics\Generics\Generics\Task1\obj\Debug\Task1.exe
+E:\Generics\Generics\Generics\Task1\obj\Debug\Task1.pdb
