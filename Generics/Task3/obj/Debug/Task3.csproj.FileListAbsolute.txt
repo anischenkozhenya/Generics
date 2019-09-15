@@ -1,0 +1,6 @@
+E:\Generics\Generics\Generics\Task3\bin\Debug\Task3.exe.config
+E:\Generics\Generics\Generics\Task3\bin\Debug\Task3.exe
+E:\Generics\Generics\Generics\Task3\bin\Debug\Task3.pdb
+E:\Generics\Generics\Generics\Task3\obj\Debug\Task3.csproj.CoreCompileInputs.cache
+E:\Generics\Generics\Generics\Task3\obj\Debug\Task3.exe
+E:\Generics\Generics\Generics\Task3\obj\Debug\Task3.pdb
