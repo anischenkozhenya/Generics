@@ -2,8 +2,4 @@
 # Данный GITIGNORE-файл был автоматически создан Microsoft(R) Visual Studio.
 ################################################################################
 
-/Generics/.vs/Generics/v16/Server/sqlite3/db.lock
-/Generics/.vs/Generics/v16/Server/sqlite3/storage.ide
-/Generics/.vs/Generics/v16/Server/sqlite3/storage.ide-shm
-/Generics/.vs/Generics/v16/Server/sqlite3/storage.ide-wal
-/Generics/.vs/Generics/v16/.suo
+/Generics/.vs/
